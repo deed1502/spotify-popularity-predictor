@@ -30,7 +30,7 @@ Si quieres probar el modelo con tus propios datos:
 1. Cómo usar el Predictor
 1.  Clona este repositorio:
     ```bash
-    git clone [https://github.com/deed1502/spotify-popularity-predictor.git](https://github.com/deed1502/spotify-popularity-predictor.git)
+    git clone https://github.com/deed1502/spotify-popularity-predictor.git
     ```
 2.  Instala las librerías necesarias:
     ```bash
